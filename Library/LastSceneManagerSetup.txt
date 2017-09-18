@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Main_01.unity
+- path: Assets/Scenes/CustomShaders.unity
   isLoaded: 1
   isActive: 1
