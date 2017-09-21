@@ -103,6 +103,8 @@
     <None Include="Assets\Kejiro\Klak\Chromatics\Editor\Preview.shader" />
     <None Include="Assets\Scripts\ComputeTests\GPUPositions.compute" />
     <None Include="Assets\Scripts\ComputeTests\SimpleComputeShader.compute" />
+    <None Include="Assets\Shaders\CustomLambert.shader" />
+    <None Include="Assets\Shaders\CustomLambertAmbient.shader" />
     <None Include="Assets\Shaders\CustomShader.shader" />
     <None Include="Assets\Shaders\CustomUnlitShader.shader" />
   </ItemGroup>
